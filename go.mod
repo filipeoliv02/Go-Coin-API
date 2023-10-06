@@ -1,6 +1,6 @@
 module github.com/filipeoliv02/goapi
 
-go 1.21.1
+go 1.21
 
 require (
 	github.com/go-chi/chi v1.5.5
